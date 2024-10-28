@@ -1,0 +1,22 @@
+#Intranet 3
+
+An intranet is a private network contained within an enterprise that is used to securely share company information and computing resources among employees. An intranet can also be used for working in groups and teleconferences.
+Intranets encourage communication within an organization. They let employees easily access important information, links, applications, forms and databases of company records. A database that includes all the usernames of employees who have access rights to the network is often used to maintain intranet security.
+
+How are intranets used?
+Organizations use intranets in a variety of ways depending on their needs. These include the following:
+•	Central repository. Intranets become the main repository where important information and company data are stored.
+•	Collaboration. These internal networks provide a way to share information that makes it easier for employees to work together.
+•	Personalization. Intranets provide personalized content to employees based on their role within the company.
+•	Communication. They make employee directories, company news and organization charts readily available, improving internal corporate communications.
+•	Easy access to information. Intranets provide easy access to information about company policies, benefits and updates.
+•	Social elements. Social media features let employees create an account, post content and status alerts and browse a newsfeed.
+•	Project management. To-do lists, employee directories, status updates and other resources aid users in project management.
+•	Automation. Intranets streamline everyday activities by helping to automate repeatable tasks.
+How do intranets work?
+A secure and reliable intranet requires a web server that manages requests for data hosted on the server. The web server finds requested files and delivers them to the appropriate user. A content management system should also be set up to control the creation, publication and management of intranet content.
+An intranet may also consist of many interlinked local area networks (LANs), as well as leased lines connecting to wide area network resources. The intranet's web server uses TCP/IP, HTTP and other internet protocols. Typically, an intranet includes connections through one or more gateway computers to the outside internet and external resources.
+To access their company intranet, employees must have a special network password and be connected to the company LAN. Remote employees access the intranet through a virtual private network (VPN) or another secure connection. The VPN lets users not actually connected to the required LAN sign into the intranet and access all the same information and functions that would be available had they been connected to the LAN.
+Firewall software is essential to the security of an organization's intranet. It stands between the outside internet and the private intranet. The firewall will track all incoming and outgoing data packets to confirm they do not contain unauthorized or suspicious requests. Firewalls also ensure malware and other malicious attacks do not penetrate the intranet.
+When a segment of an intranet is made accessible to customers, partners, suppliers or others outside the company, that segment becomes part of an extranet. A firewall is especially important to secure intranet networks that include extranet extensions.
+The intranet generally looks like a private version of the internet. With tunneling, companies can send private messages through the public network. They use special encryption and decryption and other security safeguards to connect one part of their intranet to another. Hosted software applications also provide intranets. Instead of a company having its own private server, it buys intranet software that performs the same functions as traditional intranets. Some modern intranets operate similarly to social media applications that connect to an array of corporate applications. These applications are also called employee experience platforms.
