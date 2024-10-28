@@ -1,4 +1,5 @@
 #Intranet 3
+https://www.techtarget.com/whatis/definition/intranet
 
 An intranet is a private network contained within an enterprise that is used to securely share company information and computing resources among employees. An intranet can also be used for working in groups and teleconferences.
 Intranets encourage communication within an organization. They let employees easily access important information, links, applications, forms and databases of company records. A database that includes all the usernames of employees who have access rights to the network is often used to maintain intranet security.
@@ -20,3 +21,4 @@ To access their company intranet, employees must have a special network password
 Firewall software is essential to the security of an organization's intranet. It stands between the outside internet and the private intranet. The firewall will track all incoming and outgoing data packets to confirm they do not contain unauthorized or suspicious requests. Firewalls also ensure malware and other malicious attacks do not penetrate the intranet.
 When a segment of an intranet is made accessible to customers, partners, suppliers or others outside the company, that segment becomes part of an extranet. A firewall is especially important to secure intranet networks that include extranet extensions.
 The intranet generally looks like a private version of the internet. With tunneling, companies can send private messages through the public network. They use special encryption and decryption and other security safeguards to connect one part of their intranet to another. Hosted software applications also provide intranets. Instead of a company having its own private server, it buys intranet software that performs the same functions as traditional intranets. Some modern intranets operate similarly to social media applications that connect to an array of corporate applications. These applications are also called employee experience platforms.
+
